@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 Student at Chulalongkorn University 
->> Faculty of Computer Engineering and Digital Technology <<
+>> Faculty of Computer Engineering and Digital Technology >>
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nunnapatppp@gmail.com](mailto:nunnapatppp@gmail.com)
