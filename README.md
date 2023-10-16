@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nunnapat Peeranoppawat
 ==============================================================================================================================================
 
-Student at Chulalongkorn University <Computer Engineering and Digital Technology>
+Student at Chulalongkorn University (Faculty of Computer Engineering and Digital Technology)
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nunnapatppp@gmail.com](mailto:nunnapatppp@gmail.com)
