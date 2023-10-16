@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nunnapat Peeranoppawat
 ==============================================================================================================================================
 
-Student at Chulalongkorn University (Faculty of Computer Engineering and Digital Technology)
+Student at Chulalongkorn University >> Faculty of Computer Engineering and Digital Technology <<
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nunnapatppp@gmail.com](mailto:nunnapatppp@gmail.com)
@@ -22,4 +22,4 @@ Student at Chulalongkorn University (Faculty of Computer Engineering and Digital
 
 ### Badges
 
-<a href="https://github.com/punchpnp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punchpnp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/punchpnp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punchpnp&langs_count=10&title_color=a855f7&text_color=ec4899&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
